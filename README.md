@@ -6,7 +6,7 @@
 - **Honeypot Azure Lab**
   - [Azure, MS Sentinel, PowerShell, analyse de logs, requêtes KQL, configuration de SIEM, visualisation des données, remédiation de sécurité.](https://github.com/)
 
-## Certifications :
+## 📜 Certifications :
 
 - [Profil RootMe (1820 points)](https://www.root-me.org/)
 - **TryHackMe SOC L1 (En cours)**
