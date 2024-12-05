@@ -4,11 +4,11 @@
 ## 👨‍💻 Projets cybersécurité:
 
 - **Honeypot Azure Lab**
-  - [Azure, MS Sentinel, PowerShell, analyse de logs, requêtes KQL, configuration de SIEM, visualisation des données, remédiation de sécurité.](https://github.com/)
+  - [Azure, MS Sentinel, PowerShell, analyse de logs, requêtes KQL, configuration de SIEM, visualisation des données, remédiation de sécurité.](https://github.com/julienlungyf/AzureHoneyPot/)
 
 ## 📜 Certifications :
 
-- [Profil RootMe (1820 points)](https://www.root-me.org/)
+- [Profil RootMe (1820 points)](https://www.root-me.org/Hyraelx)
 - **TryHackMe SOC L1 (En cours)**
   - Utilisation de YARA, MITRE ATT&CK, OpenCTI, analyse de logs.
 
